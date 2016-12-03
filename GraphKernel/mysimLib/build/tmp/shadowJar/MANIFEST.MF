@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: jena-arq-3.0.1.jar gson-2.6.2.jar retrofit-2.0.2.jar conve
+ rter-gson-2.0.2.jar commons-collections-3.1.jar weka-stable-3.6.7.jar
+  guava-19.0.jar mongo-java-driver-3.2.2.jar jsch-0.1.53.jar json-2016
+ 0212.jar commons-collections4-4.0.jar jena-core-3.0.1.jar jena-shaded
+ -guava-3.0.1.jar httpclient-4.2.6.jar jsonld-java-0.7.0.jar httpclien
+ t-cache-4.2.6.jar libthrift-0.9.2.jar jcl-over-slf4j-1.7.12.jar commo
+ ns-csv-1.0.jar commons-lang3-3.3.2.jar slf4j-api-1.7.12.jar slf4j-log
+ 4j12-1.7.12.jar log4j-1.2.17.jar okhttp-3.2.0.jar java-cup-0.11a.jar 
+ jena-iri-3.0.1.jar xercesImpl-2.11.0.jar commons-cli-1.3.jar jena-bas
+ e-3.0.1.jar httpcore-4.2.5.jar commons-codec-1.6.jar jackson-core-2.3
+ .3.jar jackson-databind-2.3.3.jar commons-io-2.4.jar okio-1.6.0.jar x
+ ml-apis-1.4.01.jar dexx-collections-0.2.jar jackson-annotations-2.3.0
+ .jar commons-logging-1.1.1.jar
+Main-Class: it.poliba.sisinflab.simlib.MainTestEvalPath
+
